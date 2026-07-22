@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Samarth-J/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Samarth-J/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Samarth-J/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Samarth-J/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Samarth-J/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Samarth-J/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Samarth-J/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Samarth-J/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Samarth-J/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Samarth-J/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
